@@ -11,3 +11,6 @@ agoda
 tweakers
 yahoo
 lastfm
+youporn
+linkedin
+aftonbladet
